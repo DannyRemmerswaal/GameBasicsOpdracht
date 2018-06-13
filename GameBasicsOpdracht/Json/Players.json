@@ -1,0 +1,314 @@
+﻿[
+  //Nederland
+  {
+    "Naam": "Cillessen",
+    "Positie": "DM",
+    "Rating": 75,
+    "RugNummer": 1,
+    "Team": "Nederland"
+  },
+  {
+    "Naam": "Blind",
+    "Positie": "V",
+    "Rating": 70,
+    "RugNummer": 2,
+    "Team": "Nederland"
+  },
+  {
+    "Naam": "van Dijk",
+    "Positie": "V",
+    "Rating": 83,
+    "RugNummer": 3,
+    "Team": "Nederland"
+  },
+  {
+    "Naam": "de Vrij",
+    "Positie": "V",
+    "Rating": 82,
+    "RugNummer": 4,
+    "Team": "Nederland"
+  },
+  {
+    "Naam": "Karsdorp",
+    "Positie": "V",
+    "Rating": 76,
+    "RugNummer": 5,
+    "Team": "Nederland"
+  },
+  {
+    "Naam": "Strootman",
+    "Positie": "VM",
+    "Rating": 77,
+    "RugNummer": 6,
+    "Team": "Nederland"
+  },
+  {
+    "Naam": "Wijnaldum",
+    "Positie": "M",
+    "Rating": 78,
+    "RugNummer": 7,
+    "Team": "Nederland"
+  },
+  {
+    "Naam": "Vilhena",
+    "Positie": "M",
+    "Rating": 75,
+    "RugNummer": 8,
+    "Team": "Nederland"
+  },
+  {
+    "Naam": "Depay",
+    "Positie": "AV",
+    "Rating": 84,
+    "RugNummer": 9,
+    "Team": "Nederland"
+  },
+  {
+    "Naam": "Promes",
+    "Positie": "AV",
+    "Rating": 79,
+    "RugNummer": 10,
+    "Team": "Nederland"
+  },
+  {
+    "Naam": "Berghuis",
+    "Positie": "AV",
+    "Rating": 76,
+    "RugNummer": 11,
+    "Team": "Nederland"
+  },
+  //Italië
+  {
+    "Naam": "Perin",
+    "Positie": "DM",
+    "Rating": 75,
+    "RugNummer": 1,
+    "Team": "Italië"
+  },
+  {
+    "Naam": "Criscito",
+    "Positie": "V",
+    "Rating": 75,
+    "RugNummer": 2,
+    "Team": "Italië"
+  },
+  {
+    "Naam": "Chiellini",
+    "Positie": "V",
+    "Rating": 87,
+    "RugNummer": 3,
+    "Team": "Italië"
+  },
+  {
+    "Naam": "Barzagli",
+    "Positie": "V",
+    "Rating": 83,
+    "RugNummer": 4,
+    "Team": "Italië"
+  },
+  {
+    "Naam": "Zappacosta",
+    "Positie": "V",
+    "Rating": 72,
+    "RugNummer": 5,
+    "Team": "Italië"
+  },
+  {
+    "Naam": "De Rossi",
+    "Positie": "VM",
+    "Rating": 80,
+    "RugNummer": 6,
+    "Team": "Italië"
+  },
+  {
+    "Naam": "Bonaventura",
+    "Positie": "M",
+    "Rating": 77,
+    "RugNummer": 7,
+    "Team": "Italië"
+  },
+  {
+    "Naam": "Jorginho",
+    "Positie": "M",
+    "Rating": 74,
+    "RugNummer": 8,
+    "Team": "Italië"
+  },
+  {
+    "Naam": "Belotti",
+    "Positie": "AV",
+    "Rating": 78,
+    "RugNummer": 9,
+    "Team": "Italië"
+  },
+  {
+    "Naam": "Insigne",
+    "Positie": "AV",
+    "Rating": 83,
+    "RugNummer": 10,
+    "Team": "Italië"
+  },
+  {
+    "Naam": "Verdi",
+    "Positie": "AV",
+    "Rating": 72,
+    "RugNummer": 11,
+    "Team": "Italië"
+  },
+  //Verenigde Staten
+  {
+    "Naam": "Howard",
+    "Positie": "DM",
+    "Rating": 70,
+    "RugNummer": 1,
+    "Team": "Verenigde Staten"
+  },
+  {
+    "Naam": "Robinson",
+    "Positie": "V",
+    "Rating": 47,
+    "RugNummer": 2,
+    "Team": "Verenigde Staten"
+  },
+  {
+    "Naam": "Parker",
+    "Positie": "V",
+    "Rating": 51,
+    "RugNummer": 3,
+    "Team": "Verenigde Staten"
+  },
+  {
+    "Naam": "Miazga",
+    "Positie": "V",
+    "Rating": 45,
+    "RugNummer": 4,
+    "Team": "Verenigde Staten"
+  },
+  {
+    "Naam": "Yedlin",
+    "Positie": "V",
+    "Rating": 64,
+    "RugNummer": 5,
+    "Team": "Verenigde Staten"
+  },
+  {
+    "Naam": "Trapp",
+    "Positie": "VM",
+    "Rating": 43,
+    "RugNummer": 6,
+    "Team": "Verenigde Staten"
+  },
+  {
+    "Naam": "Bradley",
+    "Positie": "M",
+    "Rating": 60,
+    "RugNummer": 7,
+    "Team": "Verenigde Staten"
+  },
+  {
+    "Naam": "McKennie",
+    "Positie": "M",
+    "Rating": 41,
+    "RugNummer": 8,
+    "Team": "Verenigde Staten"
+  },
+  {
+    "Naam": "Altidore",
+    "Positie": "AV",
+    "Rating": 60,
+    "RugNummer": 9,
+    "Team": "Verenigde Staten"
+  },
+  {
+    "Naam": "Pulisic",
+    "Positie": "AV",
+    "Rating": 68,
+    "RugNummer": 10,
+    "Team": "Verenigde Staten"
+  },
+  {
+    "Naam": "Wood",
+    "Positie": "AV",
+    "Rating": 52,
+    "RugNummer": 11,
+    "Team": "Verenigde Staten"
+  },
+  //Ecuador
+  {
+    "Naam": "Banguera",
+    "Positie": "DM",
+    "Rating": 40,
+    "RugNummer": 1,
+    "Team": "Ecuador"
+  },
+  {
+    "Naam": "Fernando Leon",
+    "Positie": "V",
+    "Rating": 35,
+    "RugNummer": 2,
+    "Team": "Ecuador"
+  },
+  {
+    "Naam": "Parades",
+    "Positie": "V",
+    "Rating": 31,
+    "RugNummer": 3,
+    "Team": "Ecuador"
+  },
+  {
+    "Naam": "Velasco",
+    "Positie": "V",
+    "Rating": 45,
+    "RugNummer": 4,
+    "Team": "Ecuador"
+  },
+  {
+    "Naam": "A. Valencia",
+    "Positie": "V",
+    "Rating": 73,
+    "RugNummer": 5,
+    "Team": "Ecuador"
+  },
+  {
+    "Naam": "Paredes",
+    "Positie": "VM",
+    "Rating": 34,
+    "RugNummer": 6,
+    "Team": "Ecuador"
+  },
+  {
+    "Naam": "Montero",
+    "Positie": "M",
+    "Rating": 56,
+    "RugNummer": 7,
+    "Team": "Ecuador"
+  },
+  {
+    "Naam": "Oyola",
+    "Positie": "M",
+    "Rating": 31,
+    "RugNummer": 8,
+    "Team": "Ecuador"
+  },
+  {
+    "Naam": "E. Valencia",
+    "Positie": "Av",
+    "Rating": 60,
+    "RugNummer": 9,
+    "Team": "Ecuador"
+  },
+  {
+    "Naam": "Castillo",
+    "Positie": "AV",
+    "Rating": 43,
+    "RugNummer": 10,
+    "Team": "Ecuador"
+  },
+  {
+    "Naam": "Ibarra",
+    "Positie": "AV",
+    "Rating": 40,
+    "RugNummer": 11,
+    "Team": "Ecuador"
+  }
+]

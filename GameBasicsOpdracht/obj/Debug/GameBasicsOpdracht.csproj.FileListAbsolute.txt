@@ -1,0 +1,12 @@
+C:\Users\Danny\source\repos\GameBasicsOpdracht\GameBasicsOpdracht\bin\Debug\GameBasicsOpdracht.exe.config
+C:\Users\Danny\source\repos\GameBasicsOpdracht\GameBasicsOpdracht\bin\Debug\GameBasicsOpdracht.exe
+C:\Users\Danny\source\repos\GameBasicsOpdracht\GameBasicsOpdracht\bin\Debug\GameBasicsOpdracht.pdb
+C:\Users\Danny\source\repos\GameBasicsOpdracht\GameBasicsOpdracht\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Danny\source\repos\GameBasicsOpdracht\GameBasicsOpdracht\obj\Debug\GameBasicsOpdracht.csprojAssemblyReference.cache
+C:\Users\Danny\source\repos\GameBasicsOpdracht\GameBasicsOpdracht\obj\Debug\GameBasicsOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\GameBasicsOpdracht\GameBasicsOpdracht\obj\Debug\GameBasicsOpdracht.csproj.CopyComplete
+C:\Users\Danny\source\repos\GameBasicsOpdracht\GameBasicsOpdracht\obj\Debug\GameBasicsOpdracht.exe
+C:\Users\Danny\source\repos\GameBasicsOpdracht\GameBasicsOpdracht\obj\Debug\GameBasicsOpdracht.pdb
+C:\Users\Danny\source\repos\GameBasicsOpdracht\GameBasicsOpdracht\obj\Debug\GameBasicsOpdracht.MVC.View.MainView.resources
+C:\Users\Danny\source\repos\GameBasicsOpdracht\GameBasicsOpdracht\obj\Debug\GameBasicsOpdracht.csproj.GenerateResource.cache
+C:\Users\Danny\source\repos\GameBasicsOpdracht\GameBasicsOpdracht\bin\Debug\Json\Players.json
